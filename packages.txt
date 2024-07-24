@@ -1,6 +1,7 @@
+streamlit
+pandas
+numpy
 matplotlib
 seaborn
 scipy
-pandas
-numpy
 glob
